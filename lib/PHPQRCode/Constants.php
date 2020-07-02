@@ -17,7 +17,7 @@ class Constants
     const QR_FIND_FROM_RANDOM = false;
     const QR_DEFAULT_MASK = 2;
 
-    const QR_PNG_MAXIMUM_SIZE =  1024;
+    const QR_PNG_MAXIMUM_SIZE =  2048;
 
     // Encoding modes
 	const QR_MODE_NUL = -1;
