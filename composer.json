@@ -1,8 +1,8 @@
 {
-    "name": "fernandorotermund/phpqrcode",
+    "name": "fernandorotermund/php-qrcode-generator",
     "description": "PHPQRCode porting and changed for PHP 5.3 compatibility",
     "keywords": ["php", "qrcode"],
-    "homepage": "https://github.com/fernandorotermund/PHPQRCode",
+    "homepage": "https://github.com/fernandorotermund/PHP-QRCode-Generator",
     "type": "library",
     "license": "MIT",
     "authors": [
